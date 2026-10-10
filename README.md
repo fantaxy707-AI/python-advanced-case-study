@@ -1,4 +1,4 @@
-Nama: achmad lutfi ubaidhillah
+Nama: ubaidillah
 
 Program Studi: Teknik Informatika
 
